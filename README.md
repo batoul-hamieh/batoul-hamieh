@@ -7,6 +7,4 @@
 
 
  Connect with me on [LinkedIn](https://linkedin.com/in/batoul-hamieh)
- 
 
-> _“Turning messy ideas into clean code and meaningful impact.”_
