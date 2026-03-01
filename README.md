@@ -1,4 +1,4 @@
-# Hello GitHubers, I'm Batoul 👋 
+# Hello GitHubers 👋 , I'm Batoul
 
 ### Data Science Student | Methodical Thinker
 
