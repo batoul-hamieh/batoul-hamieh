@@ -1,7 +1,17 @@
-# Hello GitHubers!👋 
+# Hello GitHubers, I'm Batoul 👋 
 
-I'm Batoul, and this is where I document my learning journey and build ideas into real-world solutions.
+### Data Science Student | Methodical Thinker
+
+I’m a learner driven by one solid question: **why?**
+
+## 🧠 What Drives Me
+
+- Exploring the mathematical foundations of data  
+- Emphasizing solid data engineering principles
+- Learning through building
+- Developing research-oriented thinking
+
+My goal is to understand how structured information can create real value.
 
 
- Connect with me on [LinkedIn](https://linkedin.com/in/batoul-hamieh)
 
