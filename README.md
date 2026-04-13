@@ -2,7 +2,7 @@
 
 ### Data Science Student | Methodical Thinker
 
-I’m a learner driven by one solid question: **why?**
+I’m a learner driven by one question: **why?**
 
 
 ## Current Direction
@@ -12,8 +12,6 @@ I’m a learner driven by one solid question: **why?**
 - Learning through building
 - Developing research-oriented thinking
 
-
-My goal is to understand how structured information can create real value.
 
 
 
