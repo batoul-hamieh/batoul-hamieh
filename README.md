@@ -1,6 +1,6 @@
 # Hello GitHubers 👋 , I'm Batoul
 
-### Data Science Student | Methodical Thinker
+### Data Scientist | Methodical Thinker
 
 I’m a learner driven by one question: **why?**
 
