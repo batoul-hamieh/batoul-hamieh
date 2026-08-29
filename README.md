@@ -1,15 +1,7 @@
-# Hello GitHubers 👋 , I'm Batoul
-
-### Data Scientist | Methodical Thinker
-
-I’m a learner driven by one question: **why?**
+# Hello GitHubers 👋 , I'm Batoul 
 
 
-## Current Direction
-
-- Learning through building
-- Developing research-oriented thinking
+**Data Scientist  specializing in Computational Neuroscience.**
 
 
-
-
+Rooted in methodical research, scientific inquiry, and philosophy, with a strong drive for hands-on technical experiments and open-source building.
